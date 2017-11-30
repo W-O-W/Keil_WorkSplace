@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\USER -I..\BOOT -I..\LIB\inc -I..\EVAL -I..\EVAL\STM32100E_EVAL -I..\EVAL\Common -I..\..\library 
+-I Z:\home\ki\mdk\ARM\RV31\INC 
+-I Z:\home\ki\mdk\ARM\CMSIS\Include 
+-I Z:\home\ki\mdk\ARM\Inc\ST\STM32F100xE 
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD_VL -DUSE_STM32100E_EVAL -o "..\OUTPUT\stm32100e_eval_fsmc_sram.o" --omf_browse "..\OUTPUT\stm32100e_eval_fsmc_sram.crf" --depend "..\OUTPUT\stm32100e_eval_fsmc_sram.d" "..\EVAL\STM32100E_EVAL\stm32100e_eval_fsmc_sram.c"

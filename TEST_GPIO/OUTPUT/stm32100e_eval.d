@@ -1,0 +1,17 @@
+..\OUTPUT\stm32100e_eval.o: ..\EVAL\STM32100E_EVAL\stm32100e_eval.c
+..\OUTPUT\stm32100e_eval.o: ..\EVAL\STM32100E_EVAL\stm32100e_eval.h
+..\OUTPUT\stm32100e_eval.o: ..\EVAL\stm32_eval.h
+..\OUTPUT\stm32100e_eval.o: ..\BOOT\stm32f10x.h
+..\OUTPUT\stm32100e_eval.o: ..\BOOT\core_cm3.h
+..\OUTPUT\stm32100e_eval.o: Z:\home\ki\mdk\ARM\ARMCC\bin\..\include\stdint.h
+..\OUTPUT\stm32100e_eval.o: ..\BOOT\system_stm32f10x.h
+..\OUTPUT\stm32100e_eval.o: ..\USER\stm32f10x_conf.h
+..\OUTPUT\stm32100e_eval.o: ..\LIB\inc\stm32f10x_flash.h
+..\OUTPUT\stm32100e_eval.o: ..\BOOT\stm32f10x.h
+..\OUTPUT\stm32100e_eval.o: ..\LIB\inc\stm32f10x_gpio.h
+..\OUTPUT\stm32100e_eval.o: ..\LIB\inc\stm32f10x_rcc.h
+..\OUTPUT\stm32100e_eval.o: ..\LIB\inc\stm32f10x_tim.h
+..\OUTPUT\stm32100e_eval.o: ..\EVAL\stm32100e_eval/stm32100e_eval.h
+..\OUTPUT\stm32100e_eval.o: ..\LIB\inc\stm32f10x_spi.h
+..\OUTPUT\stm32100e_eval.o: ..\LIB\inc\stm32f10x_i2c.h
+..\OUTPUT\stm32100e_eval.o: ..\LIB\inc\stm32f10x_dma.h

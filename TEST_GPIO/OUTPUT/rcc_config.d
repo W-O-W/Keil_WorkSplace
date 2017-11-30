@@ -1,0 +1,12 @@
+..\OUTPUT\rcc_config.o: ..\..\library\RCC_CONFIG.c
+..\OUTPUT\rcc_config.o: ..\..\library\RCC.h
+..\OUTPUT\rcc_config.o: ..\USER\stm32f10x_conf.h
+..\OUTPUT\rcc_config.o: ..\LIB\inc\stm32f10x_flash.h
+..\OUTPUT\rcc_config.o: ..\BOOT\stm32f10x.h
+..\OUTPUT\rcc_config.o: ..\BOOT\core_cm3.h
+..\OUTPUT\rcc_config.o: Z:\home\ki\mdk\ARM\ARMCC\bin\..\include\stdint.h
+..\OUTPUT\rcc_config.o: ..\BOOT\system_stm32f10x.h
+..\OUTPUT\rcc_config.o: ..\USER\stm32f10x_conf.h
+..\OUTPUT\rcc_config.o: ..\LIB\inc\stm32f10x_gpio.h
+..\OUTPUT\rcc_config.o: ..\LIB\inc\stm32f10x_rcc.h
+..\OUTPUT\rcc_config.o: ..\LIB\inc\stm32f10x_tim.h

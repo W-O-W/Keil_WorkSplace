@@ -1,0 +1,8 @@
+使能Flash预取缓存
+/* 选择PLL时钟源为HSE1分频，倍频率为9,则PLL = 9×8=72MHz */
+等待PLL输出稳定
+选择SYSCLK时钟源为PLL
+
+等待PLL成为SYSCLK时钟源
+
+打开APB2总线上的GPIOA时钟

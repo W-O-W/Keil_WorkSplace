@@ -1,0 +1,15 @@
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\EVAL\Common\stm32_eval_i2c_tsensor.c
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\EVAL\Common\stm32_eval_i2c_tsensor.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\EVAL\stm32_eval.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\BOOT\stm32f10x.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\BOOT\core_cm3.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: Z:\home\ki\mdk\ARM\ARMCC\bin\..\include\stdint.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\BOOT\system_stm32f10x.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\USER\stm32f10x_conf.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\LIB\inc\stm32f10x_flash.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\BOOT\stm32f10x.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\LIB\inc\stm32f10x_gpio.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\LIB\inc\stm32f10x_rcc.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\LIB\inc\stm32f10x_tim.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\EVAL\stm32100e_eval/stm32100e_eval.h
+..\OUTPUT\stm32_eval_i2c_tsensor.o: ..\EVAL\stm32_eval.h
